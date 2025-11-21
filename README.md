@@ -11,4 +11,4 @@ This project involved full LTSpice simulation, component sizing, PCB design, and
 • Custom PCB + 3D model
 
 📂 Full project files (PCB, LTSpice, models, etc.):
-👉 GitHub: https://github.com/YoussefTheCreator-dx/6V-Battery-Charger
+👉 GitHub: https://github.com/YoussefTheCreator-dev/6V-Battery-Charger
